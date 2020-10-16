@@ -1,5 +1,5 @@
 # Hi This is Kushankur Das. This is my project on sending an email to various people with just one click from the terminal.
-# You don't need to install any package... Just make sure you are using the latest version pf python 3.
+# You don't need to install any package... Just make sure you are using the latest version of python 3.
 # You need to turn on less secure apps option towards your google account. Copy and paste the link next into your browser with the sender google account signed in.
 #And you are good to go.
 import smtplib as s
